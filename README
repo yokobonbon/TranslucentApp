@@ -1,0 +1,3 @@
+How to invoke application from adb shell
+
+# am start -a android.intent.action.MAIN -n jp.gr.java.conf.ulexite.translucentapp/.TranslucentActivity
